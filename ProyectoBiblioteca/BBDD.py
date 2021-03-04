@@ -30,7 +30,6 @@ cursor.execute("select * from Biblioteca")
 consulta = cursor.fetchall()
 print(consulta)
 
-
 cursor.execute("select * from Biblioteca")
 consulta = cursor.fetchall()
 direcciones = []
