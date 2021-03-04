@@ -39,19 +39,3 @@ for i in range(len(consulta)):
 print(direcciones)
 
 conexion.commit()
-
-
-
-
-
-
-
-
-
-
-conexion.commit()
-
-
-
-
-
